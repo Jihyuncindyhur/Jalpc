@@ -12,7 +12,7 @@ img_path: /mywebsite/static/assets/img/blog  # url should be '/homepage/static/a
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Jihyun (Cindy) Hur  # Be used at blog posts' author.
-  first_name: Jihyun  # Be used at index page about me section.
+  first_name: Jihyun Cindy  # Be used at index page about me section.
   last_name: Hur  # Be used at index page about me section.
   avatar: /static/assets/img/landing/me.png  # upload your avatar at directory and edit it.
   github_username: Jihyuncindyhur  # Leave blank if you don't have now
