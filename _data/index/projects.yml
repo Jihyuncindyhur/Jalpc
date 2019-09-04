@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: Jihyuncindyhur
   repo: download_abcd_data
-  img: /static/assets/img/landing/ABCD.png
+  img: /static/assets/img/landing/ABCD-2.png
   desc: This repository is to download ABCD study imaging data.
 
 - name: Python
