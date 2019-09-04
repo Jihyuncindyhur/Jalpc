@@ -5,12 +5,12 @@
   i18n: jalpc
   gh_user: Jihyuncindyhur
   repo: download_abcd_data
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  img: /static/assets/img/landing/ABCD.png
+  desc: This repository is to download ABCD study imaging data.
 
 - name: Python
   i18n: cpython
   gh_user: Jihyuncindyhur
   repo: practice_python
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: This repository includes Python codes.
