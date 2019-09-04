@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Motivation, Machine Learning, Python, R, fMRI, Sleeping
-percentage: 70, 100, 30, 75, 65, 60, 70
+aspects: GitHub, Motivation, Python, R, Machine Learning, fMRI, Sleeping
+percentage: 70, 100, 75, 70, 50, 60, 70
