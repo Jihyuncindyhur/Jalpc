@@ -4,7 +4,7 @@ title:  "ABCD study workshop"
 date:   2019-08-19
 desc: "Take-aways from ABCD study workshop"
 keywords: ""
-categories: [workshops]
+categories: [workshop]
 tags: [fMRI, neuroimaging, developmental, adolescent]
 icon: icon-html
 ---
