@@ -4,7 +4,7 @@ title:  "Won First Place at Bouldering Competition!"
 date:   2019-11-02
 desc: "Exciting sporty news"
 keywords: ""
-categories: [sport]
+categories: [life]
 tags: [Climbing, Sports, Workout, Bouldering]
 icon: icon-html
 ---
