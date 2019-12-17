@@ -15,7 +15,8 @@ Oak Tree Run is a fundrasining marathon with a theme of 'Run for the Orphans.' M
 
 About my running, 10K was definitely doable. But, I had had plantar fasciitis for two weeks after the marathon, and my knees are still aching when I go downstairs or run. I never trained myself before the marathon, and with no doubt, I overpaced it.
 
-So, new lessons learned! Always try to be trained, prepared, and never overpace. 1 hour of overpacing could require 1 month (or more) of recovery. 
+So, new lessons learned! Always try to be trained, prepared, and never overpace. 1 hour of overpacing could require 1 month (or more) of recovery. Enjoy taking a small and slow step for the bigger and longer journey. 
+
 ---
 <p align="center">
   <img width="700" heigth="500" src="https://user-images.githubusercontent.com/44596787/70965161-1540a300-20d2-11ea-9b6d-aa8294bda2ce.png">
