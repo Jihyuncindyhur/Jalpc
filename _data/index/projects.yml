@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-#- name: ABCD study
-#  i18n: jalpc
-#  gh_user: Jihyuncindyhur
-#  repo: download_abcd_data
-#  img: /static/assets/img/landing/ABCD-2.png
-#  desc: This repository is to download ABCD study imaging data.
+- name: ABCD study
+  i18n: jalpc
+  gh_user: Jihyuncindyhur
+  repo: download_abcd_data
+  img: /static/assets/img/landing/ABCD-2.png
+  desc: This repository is to download ABCD study imaging data.
 
 - name: Python
   i18n: cpython
